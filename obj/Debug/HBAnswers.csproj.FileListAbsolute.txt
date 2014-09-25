@@ -1,0 +1,6 @@
+F:\Projects\HBAnswers\HBAnswers\bin\Debug\HBAnswers.exe.config
+F:\Projects\HBAnswers\HBAnswers\bin\Debug\HBAnswers.exe
+F:\Projects\HBAnswers\HBAnswers\bin\Debug\HBAnswers.pdb
+F:\Projects\HBAnswers\HBAnswers\obj\Debug\HBAnswers.csprojResolveAssemblyReference.cache
+F:\Projects\HBAnswers\HBAnswers\obj\Debug\HBAnswers.exe
+F:\Projects\HBAnswers\HBAnswers\obj\Debug\HBAnswers.pdb
